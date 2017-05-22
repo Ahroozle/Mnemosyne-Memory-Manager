@@ -1,4 +1,4 @@
-MemoryManager_Spike
+Mnemosyne Memory Manager
 
 The Mnemosyne and Luna Memory Managers were small projects I did on the side in my spare time as a way to keep myself sharp on C/++ syntax and pointer operations.
 
